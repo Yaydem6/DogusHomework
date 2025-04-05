@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\DogusHomework1\obj\Debug\DogusHomework1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DogusHomework1\obj\Debug\DogusHomework1.Form1.resources
+C:\Users\Lenovo\source\repos\DogusHomework1\obj\Debug\DogusHomework1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DogusHomework1\obj\Debug\DogusHomework1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DogusHomework1\obj\Debug\DogusHomework1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DogusHomework1\bin\Debug\DogusHomework1.exe.config
+C:\Users\Lenovo\source\repos\DogusHomework1\bin\Debug\DogusHomework1.exe
+C:\Users\Lenovo\source\repos\DogusHomework1\bin\Debug\DogusHomework1.pdb
+C:\Users\Lenovo\source\repos\DogusHomework1\obj\Debug\DogusHomework1.exe
+C:\Users\Lenovo\source\repos\DogusHomework1\obj\Debug\DogusHomework1.pdb
